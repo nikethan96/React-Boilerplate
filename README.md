@@ -1,12 +1,20 @@
 ![](http://i.imgur.com/5Bqs5zi.png)
 
-React boilerplate thenewboston tutorials.
+React boilerplate.
 
-## Getting started
+## Getting started by Downloading the Repo
 
 To get started simply download the repo using the link below. All required files are included.
 
-https://github.com/buckyroberts/React-Boilerplate/archive/master.zip
+```
+> simply download the repo and extract. All required files are included.
+```
+
+## Getting started by Cloning the Repo
+
+```
+> git clone https://github.com/nikethan96/React-Boilerplate.git
+```
 
 ## Setting up Gulp (optional)
 
@@ -23,12 +31,3 @@ After modules are installed, you can start watching for SCSS changes using the c
 ```
 
 You can install more modules and configure them in the **gulpfile.js** file as needed.
-
-## Links
-
-- [Support thenewboston](https://www.patreon.com/thenewboston)
-- [thenewboston.com](https://thenewboston.com/)
-- [Facebook](https://www.facebook.com/TheNewBoston-464114846956315/)
-- [Twitter](https://twitter.com/bucky_roberts)
-- [Google+](https://plus.google.com/+BuckyRoberts)
-- [reddit](https://www.reddit.com/r/thenewboston/)
